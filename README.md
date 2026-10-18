@@ -51,7 +51,7 @@ Alternatively, use the Maven Wrapper if it is included in the backend project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ChinmayGade/quizgen.git
+git clone https://github.com/ChinmayGade/quizgen-project.git
 cd quizgen
 ```
 
